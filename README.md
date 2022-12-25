@@ -6,10 +6,13 @@ These guides and books have been prepared for guidance and information purposes 
 
 ## Guides
 
-* GIT Guides
-* Shell Guides
+* [GIT Guides](https://github.com/nisaunnu/guides/blob/main/GIT.pdf)
+* [Shell Guides](https://github.com/nisaunnu/guides/blob/main/Shell%20K%C4%B1lavuzu.pdf)
+
 
 ## Books
 
-* A'dan Z'ye C Kılavuzu
-* C ile Programlama
+Books may not open due to file size. Please download the file.
+
+* [A'dan Z'ye C Kılavuzu (TR)](https://github.com/nisaunnu/guides/blob/main/A'dan%20Z'ye%20C%20K%C4%B1lavuzu%20-%20Kaan%20Aslan.pdf)
+* [C ile Programlama - Yandex Link (TR)](https://disk.yandex.com.tr/i/2IFF8HRcE0IE2g)
