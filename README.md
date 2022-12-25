@@ -12,4 +12,4 @@ These guides and books have been prepared for guidance and information purposes 
 ## Books
 
 * A'dan Z'ye C Kılavuzu
-* C ile Programlama"
+* C ile Programlama
