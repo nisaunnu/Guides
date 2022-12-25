@@ -3,6 +3,7 @@
 These guides and books have been prepared for guidance and information purposes only.
 
 # Ingredients
+If it gives "Unable to render rich display" error, refresh the page or download the file.
 
 ## Guides
 
