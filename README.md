@@ -5,13 +5,16 @@ These guides and books have been prepared for guidance and information purposes 
 # Ingredients
 If it gives "Unable to render rich display" error, refresh the page or download the file.
 
-## Guides
+## :page_facing_up: Guides
 
 * [GIT Guides](https://github.com/nisaunnu/guides/blob/main/GIT.pdf)
 * [Shell Guides](https://github.com/nisaunnu/guides/blob/main/Shell%20K%C4%B1lavuzu.pdf)
 
+## :globe_with_meridians: Websites
 
-## Books
+* [Documentation of All Programming Languages](https://devdocs.io/)
+
+## :books: Books
 
 Books may not open due to file size. Please download the file.
 
