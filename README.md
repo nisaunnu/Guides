@@ -9,6 +9,7 @@ If it gives "Unable to render rich display" error, refresh the page or download 
 
 * [GIT Guides](https://github.com/nisaunnu/guides/blob/main/GIT.pdf)
 * [Shell Guides](https://github.com/nisaunnu/guides/blob/main/Shell%20K%C4%B1lavuzu.pdf)
+* [Data Structures and Algorithms](https://github.com/nisaunnu/Guides/blob/main/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar%20-%20Nisa%20Ceren%20%C3%9Cnn%C3%BC.pdf)
 
 ## :globe_with_meridians: Websites
 
